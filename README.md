@@ -42,6 +42,6 @@ The code in this repository enables training and testing of the GenConViT model 
 </pre>
 
 ## Usage
-python -m venv venv
-venv\Scripts\activate
-pip install flask pymongo
+<p>python -m venv venv</p>
+<p>venv\Scripts\activate</p>
+<p>pip install flask pymongo</p>
